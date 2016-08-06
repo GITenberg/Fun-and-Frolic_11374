@@ -1,0 +1,32 @@
+_repo: Fun-and-Frolic_11374
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Roe, E. T.
+    gutenberg_agent_id: '40326'
+    url: http://www.gutenberg.org/2009/agents/40326
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s literature'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children''s poetry'
+- GITenberg
+tableOfContents: Grandmother's chair -- How Grandma surprised Elsie -- Going to bed
+  -- The cat and the parrot -- Baby -- The Captain's daughter -- Fun for the kittens
+  -- Tommy Green and Tommy Red -- Fond of cats -- The cat's questions -- "Scramble"
+  -- Clever goats -- King Lear -- The British mastiffs -- On the lakes in a storm
+  -- Fritz -- Naughty Willie -- Ned Bently's temptation -- "Hodge" -- April fool --
+  In a storm on the sea -- The jaguar -- Military dogs -- True to his word -- Hunting
+  a lion -- Pursued by Indians -- The truant's soliloquy -- A queer fish -- A proud
+  monarch -- Baby's answers -- Dear little brown-eyed Bess.
+title: Fun and Frolic
+url: http://www.gutenberg.org/ebooks/11374
